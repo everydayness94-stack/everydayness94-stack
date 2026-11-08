@@ -1,6 +1,6 @@
 # This is a test MD
 
-## Three reasons why i am d bumdass
+## Three reasons why i am dumdass
  * First 
  * Second
  * Third
